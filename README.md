@@ -10,7 +10,7 @@
 
 ## 🚀 Tecnologias utilizadas
 
-- Nx – Monorepo inteligente com gerenciamento eficient
+- Nx – Monorepo inteligente com gerenciamento eficiente
 - TypeScript – Tipagem para maior consistência
 - TailwindCSS – Estilização elegante com utilitários
 - Jest – Testes automatizados com cobertura confiável
