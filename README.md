@@ -29,7 +29,7 @@ npm install
 
 ### Rodar aplicação em modo dev
 
-Execute `npx nx serve calculator` para iniciar o servidor de desenvolvimento. Boa programação!
+Execute `npx nx serve todo` para iniciar o servidor de desenvolvimento. Boa programação!
 
 ## 🧪 Testes
 
